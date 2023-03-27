@@ -1,3 +1,10 @@
 '''DOCSTRINGS'''
 def func(string):
-    return string.upper()
+        return string.upper()
+
+
+"""docstring"""
+def func2(result):
+    return  result[0].upper()
+
+
